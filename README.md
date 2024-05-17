@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mikail
+- 👀 I’m interested in automotive and robotics
+- 🌱 I’m currently learning responsive web design + javascript algorythms and data structures
